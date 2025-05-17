@@ -6,6 +6,8 @@ para YouTube.
 
 Quero deixar claro que não sou desenvolvedor, por isso optei por fazer as adaptações e ajustes em um código que já estava pronto, o que foi criado na Aula 5 da imersão.
 
+Minha ideia agora é estudar uma forma de fazer com que esta ferramenta seja migrada para o ambiente Web. Ainda não sei como fazer isso, mas vou descobrir! 😉
+
 Gostaria de agradecer a todos os envolvidos na Imersão Alura + Google Gemini. Aprendi muito nesses últimos dias e, com certeza, utilizarei muito desse conhecimento adquirido na minha vida pessoal e profissional.
 
 VALEU D+ ❤️
