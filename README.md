@@ -1,14 +1,14 @@
 Gerador de Roteiros para Vídeos do YouTube com IA Gemini
 
 Uma das grandes dificuldades para quem está iniciando um canal no YouTube é justamente a criação de roteiros para os vídeos. O roteiro é uma ferramenta essencial nas produções audiovisuais,
-incluindo o YouTube. Então, para ajudar quem tem essa dificuldade, adaptei o código criado na Aula 5 da imersão para criar essa ferramenta, que espero ser de grande ajuda para produtores de conteúdo
+incluindo o YouTube. Então, para ajudar quem tem essa dificuldade, adaptei o código criado na Aula 5 da imersão para criar esta ferramenta, que espero ser de grande ajuda para produtores de conteúdo
 para YouTube.
 
-Quero deixar claro que não sou desenvolvedor, por isso optei por fazer as adaptações e ajustes em um código que já estava pronto, o que foi criado na Aula 5 da imersão.
+Quero deixar claro que não sou desenvolvedor, por isso optei por fazer as adaptações e ajustes em um código já pronto que, como eu disse anteriormente, foi criado na Aula 5 da imersão.
 
-Minha ideia agora é estudar uma forma de fazer com que esta ferramenta seja migrada para o ambiente Web. Ainda não sei como fazer isso, mas vou descobrir! 😉
+Minha ideia agora é estudar uma forma de fazer com que esta ferramenta seja migrada para o ambiente Web e, assim, ser acessível para que qualquer pessoa possa utilizá-la. Ainda não sei como fazer isso, mas vou descobrir! 😉
 
-Gostaria de agradecer a todos os envolvidos na Imersão Alura + Google Gemini. Aprendi muito nesses últimos dias e, com certeza, utilizarei muito desse conhecimento adquirido na minha vida pessoal e profissional.
+Gostaria de agradecer a todos os envolvidos na Imersão Alura + Google Gemini. Aprendi muito nesses últimos dias e, com certeza, utilizarei muito deste conhecimento adquirido na minha vida pessoal e profissional.
 
 VALEU D+ ❤️
 
