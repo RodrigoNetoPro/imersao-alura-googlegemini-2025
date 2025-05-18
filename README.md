@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/90926c58-ba83-4aa9-9b34-30ece9a33cac)
+
 Gerador de Roteiros para Vídeos do YouTube com IA Gemini
 
 Uma das grandes dificuldades para quem está iniciando um canal no YouTube é justamente a criação de roteiros para os vídeos. O roteiro é uma ferramenta essencial nas produções audiovisuais,
